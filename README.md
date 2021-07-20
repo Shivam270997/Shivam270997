@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Shivam Kumar Roy
-- 👀 I’m interested in Game Development,AI.
-- 🌱 I’m currently learning C++,C,Python.
+- 🌱 Interested in C++,C,Python,DSA.
+- Also have overall knownledge of SQl and DBMS.
+- Currently learning Django.
+- 
 
 <!---
 Shivam270997/Shivam270997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
